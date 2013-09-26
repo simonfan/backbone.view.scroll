@@ -1,0 +1,11 @@
+{
+  "name": "backbone.view.scroll",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3",
+    "requirejs": "~2.1.8"
+  },
+  "main": "backbone.view.scroll.js"
+}
